@@ -1,1 +1,2 @@
 # external_api
+外部のAPIにアクセスしないとできない機能に対して、仮にAPIを想定するためのRepository
